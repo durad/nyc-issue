@@ -1,0 +1,16 @@
+{
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "src/**/*.d.ts"
+  ],
+  "extension": [
+    ".ts"
+  ],
+  "reporter": [
+    "html"
+  ],
+  "sourceMap": true,
+  "all": true
+}
